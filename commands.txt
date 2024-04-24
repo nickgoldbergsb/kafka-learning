@@ -4,3 +4,4 @@ docker exec -it kafka-learning-kafka-1 bash
 which kafka-topics.sh
 kafka-topics.sh --create --topic ticker --partitions 1 --bootstrap-server localhost:9092
 kafka-topics.sh --bootstrap-server localhost:9092 --describe
+kafka-console-consumer.sh --topic ticker --from-beginning --bootstrap-server localhost:9092
