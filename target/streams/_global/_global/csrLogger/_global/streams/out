@@ -1,2 +1,4 @@
-[debug] downloaded https://repo1.maven.org/maven2/com/softwaremill/sttp/shared/fs2-ce2_2.13/3.9.5/fs2-ce2_2.13-3.9.5.pom
-[debug] downloaded https://repo1.maven.org/maven2/com/softwaremill/sttp/shared/fs2-ce2_2.13/3.9.5/fs2-ce2_2.13-3.9.5.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/org/slf4j/log4j-over-slf4j/1.7.29/log4j-over-slf4j-1.7.29.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/slf4j/log4j-over-slf4j/1.7.29/log4j-over-slf4j-1.7.29.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/slf4j/log4j-over-slf4j/1.7.29/log4j-over-slf4j-1.7.29-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/slf4j/log4j-over-slf4j/1.7.29/log4j-over-slf4j-1.7.29-javadoc.jar
